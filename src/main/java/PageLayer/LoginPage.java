@@ -27,6 +27,7 @@ public class LoginPage  extends BaseClass{
 	public void loginPageFunctionality(String userName, String passWord) throws InterruptedException
 	{
 		System.out.println("for GitHub Practice adding TC 1 Case by Sonali");
+		System.out.println("for GitHub Practice adding TC 2 Case by Nikhil");
 		Wait.sendKeys(uuname, userName);
 		
 		Wait.sendKeys(pass, passWord);
