@@ -29,6 +29,8 @@ public class LoginPage  extends BaseClass{
 		System.out.println("for GitHub Practice adding TC 1 Case by Sonali");
 		System.out.println("for GitHub Practice adding TC 2 Case by Nikhil");
 		System.out.println("for GitHub Practice adding TC 3 Case by Sonali");
+		System.out.println("for GitHub Practice adding TC 3 Case by Sonali");
+		
 		Wait.sendKeys(uuname, userName);
 		
 		Wait.sendKeys(pass, passWord);
